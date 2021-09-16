@@ -1,0 +1,9 @@
+@keyframes spin1 { 100% { transform:rotate(360deg); } }
+@keyframes spin2 { 100% { transform:rotate(-360deg); } }
+@keyframes idle { 100% {} }
+
+
+
+*{
+    font-family: 'UnifrakturMaguntia', cursive;
+}
